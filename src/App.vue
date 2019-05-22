@@ -5,7 +5,7 @@
       <div class="header-left" @click="pushTo('/works')">Works</div>
     </div>
     <div class="body">
-      <router-view />
+      <router-view/>
     </div>
   </div>
 </template>
@@ -37,6 +37,7 @@ export default {
   position: fixed;
   top: 0;
   z-index: 10;
+  background-color: #fff;
 
   display: flex;
 }
