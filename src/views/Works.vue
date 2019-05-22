@@ -58,7 +58,7 @@ export default {
 
 <style>
 .work-list {
-  width: 720px;
+  width: 75%;
   margin: auto;
 }
 
