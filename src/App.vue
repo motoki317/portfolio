@@ -1,11 +1,11 @@
 <template>
   <div id="app">
     <div class="header">
-      <div class="header-left" @click="pushTo('/')">Home</div>
-      <div class="header-left" @click="pushTo('/works')">Works</div>
+      <router-link tag="div" class="header-left" to="/">Home</router-link>
+      <router-link tag="div" class="header-left" to="/works">Works</router-link>
     </div>
     <div class="body">
-      <router-view/>
+      <router-view />
     </div>
   </div>
 </template>
