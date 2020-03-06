@@ -8,7 +8,7 @@
 motoki1 / toki
 
 ### 所属
-titech - デジタル創作同好会traP（2019~）
+[東京工業大学デジタル創作同好会traP](https://trap.jp) : 2019~
 
 ### 趣味
 - プログラミング
