@@ -1,29 +1,27 @@
 # portfolio
 
-## Project setup
-```
-npm install
+Static portfolio site using VuePress
+
+### Setup
+
+Install dependencies
+
+```shell script
+yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+### Development
+
+To `https://0.0.0.0:8080`
+
+```shell script
+yarn dev
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Build
 
-### Run your tests
-```
-npm run test
-```
+To `docs/.vuepress/dist`
 
-### Lints and fixes files
+```shell script
+yarn build
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
