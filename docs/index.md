@@ -11,7 +11,7 @@
 - motoki1
 - motoki317
 
-### <i class="fas fa-user"></i> Belonging
+### <i class="fas fa-users"></i> Belonging
 
 [東京工業大学デジタル創作同好会traP](https://trap.jp) : 2019~
 
