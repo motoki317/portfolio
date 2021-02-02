@@ -1,29 +1,40 @@
-# tokiのポートフォリオ
-<img alt="icon" src="./assets/icon.png" 
+# Portfolio
+
+<img alt="icon" src="/icon.png" 
     style="width: 100px; border-radius: 100%"/>
 
 制作物とかをまとめるところ
 
-### 名前
-motoki1 / toki
+### <i class="fas fa-user"></i> Handle Name
 
-### 所属
+- toki
+- motoki1
+- motoki317
+
+### <i class="fas fa-user"></i> Belonging
+
 [東京工業大学デジタル創作同好会traP](https://trap.jp) : 2019~
 
-### 趣味
+### <i class="fas fa-laptop"></i> Programming Skills
+
+できる順に
+
+- Java
+- Go
+- JavaScript / TypeScript
+  - Vue.js, React
+- MariaDB / MySQL
+- Python
+- C
+- HTML, CSS
+- Lisp (Scheme)
+
+### <i class="fas fa-heart"></i> Likes
+
 - プログラミング
 - アニメ鑑賞
 - けものフレンズ
 
-### プログラミング
-できる順に
-- Java
-- Go
-- JavaScript
-  - TypeScript
-  - Vue.js
-- HTML, CSS
-
-### その他
+### <i class="fas fa-link"></i> Links
 
 <SocialLinks/>
