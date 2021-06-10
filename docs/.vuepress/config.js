@@ -10,6 +10,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Works", link: "/works" },
+      { text: "History", link: "/history" },
     ]
   },
 };
