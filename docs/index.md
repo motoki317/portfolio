@@ -1,11 +1,9 @@
 # Portfolio
 
-<img alt="icon" src="/icon.png" 
-    style="width: 100px; border-radius: 100%"/>
-
-制作物とかをまとめるところ
-
 ### <i class="fas fa-user"></i> Handle Name
+
+<img alt="icon" src="/icon.png"
+style="width: 100px; border-radius: 100%"/>
 
 - toki
 - motoki1
@@ -13,21 +11,20 @@
 
 ### <i class="fas fa-users"></i> Belonging
 
-[東京工業大学デジタル創作同好会traP](https://trap.jp) : 2019~
+[東京工業大学デジタル創作同好会traP](https://trap.jp) : 2019/4 ~
 
 ### <i class="fas fa-laptop"></i> Programming Skills
 
-できる順に
-
-- Java
-- Go
-- JavaScript / TypeScript
-  - Vue.js, React
-- MariaDB / MySQL
-- Python
-- C
-- HTML, CSS
-- Lisp (Scheme)
+- Languages
+  - <Stars :max="5" :filled="5"/> Go
+  - <Stars :max="5" :filled="5"/> Java
+  - <Stars :max="5" :filled="4"/> JavaScript / TypeScript
+  - <Stars :max="5" :filled="3"/> Python
+  - <Stars :max="5" :filled="2"/> C
+  - <Stars :max="5" :filled="1"/> Lisp (Scheme)
+- Middlewares / Frameworks
+  - <Stars :max="5" :filled="3"/> Vue.js
+  - <Stars :max="5" :filled="4"/> MariaDB / MySQL
 
 ### <i class="fas fa-heart"></i> Likes
 
@@ -37,4 +34,5 @@
 
 ### <i class="fas fa-link"></i> Links
 
-<SocialLinks/>
+- <i class="fab fa-github github"></i> [motoki317](https://github.com/motoki317)
+- <i class="fab fa-twitter twitter"></i> [motoki1_](https://twitter.com/motoki1_)
