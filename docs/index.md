@@ -13,7 +13,7 @@ style="width: 100px; border-radius: 100%"/>
 
 [東京工業大学デジタル創作同好会traP](https://trap.jp) : 2019/4 ~
 
-### <i class="fas fa-laptop"></i> Programming Skills
+### <i class="fas fa-laptop"></i> Skills
 
 - Languages
     - <Stars :max="5" :filled="5"/> Go
@@ -25,6 +25,10 @@ style="width: 100px; border-radius: 100%"/>
 - Middlewares / Frameworks
     - <Stars :max="5" :filled="3"/> Vue.js
     - <Stars :max="5" :filled="4"/> MariaDB / MySQL
+- Infrastructure
+    - <Stars :max="5" :filled="4"/> Docker
+    - <Stars :max="5" :filled="2"/> Ansible
+    - <Stars :max="5" :filled="2"/> GCP
 
 ### <i class="fas fa-heart"></i> Likes
 
