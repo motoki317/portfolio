@@ -4,9 +4,9 @@ import Stars from "./components/Stars.vue";
 import StarUnfilled from "./components/StarUnfilled.vue";
 
 export default defineClientConfig({
-  rootComponents: [
-    StarFilled,
-    Stars,
-    StarUnfilled,
-  ],
+  enhance({ app }) {
+    app.component('StarFilled', StarFilled)
+    app.component('Stars', Stars)
+    app.component('StarUnfilled', StarUnfilled)
+  },
 })
