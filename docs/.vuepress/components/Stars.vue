@@ -8,8 +8,8 @@
 </template>
 
 <script>
-import StarFilled from './StarFilled'
-import StarUnfilled from './StarUnfilled'
+import StarFilled from './StarFilled.vue'
+import StarUnfilled from './StarUnfilled.vue'
 
 export default {
   name: 'Stars',

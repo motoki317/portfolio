@@ -1,4 +1,6 @@
-module.exports = {
+import { defaultTheme } from "vuepress";
+
+export default {
   title: "toki's portfolio",
   head: [
     ['link', {
@@ -6,10 +8,10 @@ module.exports = {
       rel: 'stylesheet'
     }]
   ],
-  themeConfig: {
-    nav: [
+  theme: defaultTheme({
+    navbar: [
       { text: "Home", link: "/" },
       { text: "Works", link: "/works" }
     ]
-  },
+  }),
 };
