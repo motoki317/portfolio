@@ -6,18 +6,30 @@
   - traP部内チャットツール。
   - 開発を引き継ぎ、メンテナンスを担当。
   - [個人公開インスタンス](https://q.toki317.dev/)
-  ![traQ](https://user-images.githubusercontent.com/49056869/115141831-5a376980-a079-11eb-93c1-7016bc2097d0.png)
+
+![traQ](https://user-images.githubusercontent.com/49056869/115141831-5a376980-a079-11eb-93c1-7016bc2097d0.png)
+
 - [NASTrend](http://nastrend.morning-chun-friends.trap.show/)
   - traP 2020年夏ハッカソンで作った「すごい熱いSNS」。スレッドごとにリアルタイムの会話ができる。 
   - サーバーサイド（Go）を担当。
-  ![NASTrend](./assets/images/nastrend.png)
+
+![NASTrend](./assets/images/nastrend.png)
+
 - [JapariPark Online](https://japari.toki317.dev/)
   - traPでチーム制作したけものフレンズ2次創作ゲーム。
   - サーバーサイド（Node.js + TS）を担当。
-  ![japari](./assets/images/japari.png)
+
+![japari](./assets/images/japari.png)
+
 - [ISUCON11 本選作問](https://github.com/isucon/isucon11-final)
   - traPとしてISUCON11の作問に参加。
   - 主に本選のGo参考実装、ベンチマーカーを担当。
+- [NeoShowcase](https://github.com/traPtitech/NeoShowcase)
+  - traP部内Platform as a Service。Go+docker/k8s製。
+  - 先代[Showcase](https://github.com/kaz/showcase)のリメイク。
+  - 凍結していた開発プロジェクトを引き継ぎ、実装の大部分を担当。
+
+![neoshowcase](./assets/images/neoshowcase.png)
 
 ## Personal Projects
 
@@ -40,12 +52,17 @@
   - 大学の授業に影響されて、GoでSchemeのinterpreterのようなものを作った。
 - [portfolio](https://github.com/motoki317/portfolio)
   - これ。Vuepressを使って簡単に生やした。
+- [manifest](https://github.com/motoki317/manifest)
+  - k8s-at-home的な何か。
+  - 個人で利用するOSSサービスの運用に利用。
+    - traQ, Nextcloud, Growi, Grafana, ArgoCD, NeoShowcase, etc.
+  - k3s + ArgoCD + Renovate (+ GitHub Actions)でほぼ完全自動化。
 
 ## Other Experiences
 
-大会出場経験
-- [ICTSC2019](https://icttoracon.net/archives/category/ictsc2019) (本選出場)
-- [ICTSC2020](https://icttoracon.net/archives/category/ictsc2020) (本選出場)
-- [ISUCON9](https://isucon.net/archives/53570241.html) (予選出場)
-- [ISUCON10](https://isucon.net/archives/54704557.html) (本選2位)
-- [ISUCON11](https://isucon.net/archives/55821036.html) (本選作問)
+- [ICTSC2019](https://icttoracon.net/archives/category/ictsc2019): 本選出場
+- [ICTSC2020](https://icttoracon.net/archives/category/ictsc2020): 本選出場
+- [ISUCON9](https://isucon.net/archives/53570241.html) (2019): 予選出場
+- [ISUCON10](https://isucon.net/archives/54704557.html) (2020): 本選2位, 学生2位
+- [ISUCON11](https://isucon.net/archives/55821036.html) (2021): 本選作問
+- [ISUCON12](https://isucon.net/archives/56571716.html) (2022): 本選2位, 学生1位
