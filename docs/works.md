@@ -66,4 +66,4 @@
 - [ISUCON10](https://isucon.net/archives/54704557.html) (2020): 本選2位, 学生2位
 - [ISUCON11](https://isucon.net/archives/55821036.html) (2021): 本選作問
 - [ISUCON12](https://isucon.net/archives/56571716.html) (2022): 本選2位, 学生1位
-- [技育展2023](https://talent.supporterz.jp/geekten/2023/): 決勝, ファイナリスト(上位12位), GMOインターネットグループ賞
+- [技育展2023](https://talent.supporterz.jp/geekten/2023/) ([Slide](https://docs.google.com/presentation/d/1yT5eRL5MlHdntEvaViytcA9luwsCvG79p68yMV0JgE4/edit?usp=sharing)): 決勝, ファイナリスト(上位12位), GMOインターネットグループ賞
