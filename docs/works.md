@@ -64,6 +64,7 @@
 - [ICTSC2020](https://icttoracon.net/archives/category/ictsc2020): 本選出場
 - [ISUCON9](https://isucon.net/archives/53570241.html) (2019): 予選出場
 - [ISUCON10](https://isucon.net/archives/54704557.html) (2020): 本選2位, 学生2位
-- [ISUCON11](https://isucon.net/archives/55821036.html) (2021): 本選作問
+- [ISUCON11](https://isucon.net/archives/55821036.html) (2021): 本選作問 (問題作成, Go参考実装, ベンチマーカー実装担当)
 - [ISUCON12](https://isucon.net/archives/56571716.html) (2022): 本選2位, 学生1位
+- [ISUCON13](https://isucon.net/archives/57801192.html) (2023): 本選2位, 学生1位
 - [技育展2023](https://talent.supporterz.jp/geekten/2023/) ([Slide](https://docs.google.com/presentation/d/1yT5eRL5MlHdntEvaViytcA9luwsCvG79p68yMV0JgE4/edit?usp=sharing)): 決勝, ファイナリスト(上位12位), GMOインターネットグループ賞
