@@ -8,8 +8,11 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.67",
-    "vue": "3.3.4",
-    "vuepress": "2.0.0-beta.67"
-  }
+    "@vuepress/bundler-vite": "2.0.0-rc.15",
+    "@vuepress/client": "2.0.0-rc.15",
+    "@vuepress/theme-default": "2.0.0-rc.42",
+    "vue": "3.5.3",
+    "vuepress": "2.0.0-rc.15"
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
 }

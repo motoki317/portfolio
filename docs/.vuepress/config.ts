@@ -1,6 +1,9 @@
-import { defaultTheme } from "vuepress";
+import { defineUserConfig } from "vuepress";
+import viteBundler from '@vuepress/bundler-vite'
+import { defaultTheme } from '@vuepress/theme-default'
 
-export default {
+export default defineUserConfig({
+  bundler: viteBundler(),
   title: "toki's portfolio",
   head: [
     ['link', {
@@ -14,4 +17,4 @@ export default {
       { text: "Works", link: "/works" }
     ]
   }),
-};
+});
