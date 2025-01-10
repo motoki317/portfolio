@@ -1,8 +1,8 @@
 <template>
-  <div class="stars-container">
-    <div v-for="filled of stars" class="stars-container">
-      <StarFilled v-if="filled"></StarFilled>
-      <StarUnfilled v-else></StarUnfilled>
+  <div class='stars-container'>
+    <div v-for='filled of stars' class='stars-container'>
+      <StarFilled v-if='filled' class='c-yellowgreen' />
+      <StarUnfilled v-else class='c-yellowgreen' />
     </div>
   </div>
 </template>
@@ -40,5 +40,9 @@ export default {
 <style>
 .stars-container {
   display: inline;
+}
+
+.c-yellowgreen {
+  color: yellowgreen
 }
 </style>

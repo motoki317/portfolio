@@ -1,3 +1,9 @@
+---
+prev:
+  text: 'About'
+  link: '/'
+---
+
 # My Works
 
 ## Team Projects
@@ -57,6 +63,9 @@
   - 個人で利用するOSSサービスの運用に利用。
     - traQ, Nextcloud, Growi, Grafana, ArgoCD, NeoShowcase, etc.
   - k3s + ArgoCD + Renovate (+ GitHub Actions)でほぼ完全自動化。
+- [mini-k8s-hands-on](https://github.com/motoki317/mini-k8s-hands-on)
+  - k8sのコンセプトを理解しやすいようにまとめたドキュメント。
+  - 主にサークルでk8sを運用していく後輩のために書いた。
 
 ## Other Experiences
 
@@ -66,5 +75,6 @@
 - [ISUCON10](https://isucon.net/archives/54704557.html) (2020): 本選2位, 学生2位
 - [ISUCON11](https://isucon.net/archives/55821036.html) (2021): 本選作問 (問題作成, Go参考実装, ベンチマーカー実装担当)
 - [ISUCON12](https://isucon.net/archives/56571716.html) (2022): 本選2位, 学生1位
-- [ISUCON13](https://isucon.net/archives/57801192.html) (2023): 本選2位, 学生1位
+- [ISUCON13](https://isucon.net/archives/57801192.html) (2023): 2位, 学生1位
+- [ISUCON14](https://isucon.net/archives/58818382.html) (2024): 38位
 - [技育展2023](https://talent.supporterz.jp/geekten/2023/) ([Slide](https://docs.google.com/presentation/d/1yT5eRL5MlHdntEvaViytcA9luwsCvG79p68yMV0JgE4/edit?usp=sharing)): 決勝, ファイナリスト(上位12位), GMOインターネットグループ賞
