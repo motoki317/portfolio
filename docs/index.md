@@ -77,6 +77,10 @@ Previous icons:
 .discord {
   color: #5865F2;
 }
+
+.img-inline {
+  display: inline;
+}
 </style>
 
 - <i class="fab fa-github github"></i> [motoki317](https://github.com/motoki317)
