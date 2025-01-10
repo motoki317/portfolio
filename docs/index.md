@@ -7,23 +7,31 @@ next:
 # About Me
 
 <style>
-.img-inline {
+.main-icon {
+  width: 100px;
+  border-radius: 100%;
+  margin: 16px 0;
+}
+
+.prev-icon {
+  width: 50px;
+  border-radius: 100%;
   display: inline;
 }
 </style>
 
 ### <i class="fas fa-user"></i> Icon and Name
 
-<img alt="icon" src="/icon4.png" class='img-inline' style="width: 100px; border-radius: 100%" />
+<img alt="icon" src="/icon4.png" class='main-icon' />
 
 - toki
 - motoki317
 
 Previous icons:
 
-<img alt="icon" src="/icon1.png" class='img-inline' style="width: 50px; border-radius: 100%" />
-<img alt="icon" src="/icon2.png" class='img-inline' style="width: 50px; border-radius: 100%" />
-<img alt="icon" src="/icon3.png" class='img-inline' style="width: 50px; border-radius: 100%" />
+<img alt="icon" src="/icon1.png" class='prev-icon' />
+<img alt="icon" src="/icon2.png" class='prev-icon' />
+<img alt="icon" src="/icon3.png" class='prev-icon' />
 
 ### <i class="fas fa-users"></i> Belonging
 
