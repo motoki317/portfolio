@@ -36,11 +36,11 @@ Previous icons:
 ### <i class="fas fa-users"></i> Belonging
 
 - 東京工業大学 情報工学系: 2019/4 ~ 2023/3
-- 東京工業大学大学院 情報工学コース: 2023/4 ~ 2025/3 (planned)
-- [デジタル創作同好会traP](https://trap.jp) : 2019/4 ~ 2025/3 (planned)
+- 東京工業大学大学院 情報工学コース: 2023/4 ~ 2025/3
+- [デジタル創作同好会traP](https://trap.jp) : 2019/4 ~ 2025/3
 - Part-time at [pixiv Inc.](https://www.pixiv.co.jp/): 2022/03 ~ 2023/06 
-- Part-time at [GMO Media Inc.](https://www.gmo.media/): 2024/06 ~ 2025/3 (planned)
-- [GMO Media Inc.](https://www.gmo.media/): 2025/4 ~ (planned)
+- Part-time at [GMO Media Inc.](https://www.gmo.media/): 2024/06 ~ 2025/3
+- [GMO Media Inc.](https://www.gmo.media/): 2025/4 ~
 
 ### <i class="fas fa-laptop"></i> Skills
 
